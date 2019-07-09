@@ -1,4 +1,4 @@
-#### Export table from database to csv file
+### Export table from database to csv file
 
 Export table from database to csv file.
 
@@ -11,7 +11,7 @@ Export table from database to csv file.
 
 ##### Install (For Linux and OS X)
 
-sh install.sh
+> sh install.sh
 
 
 ##### Usage
@@ -23,7 +23,7 @@ You can find a detailed explanation below. If INI file is in the working directo
 
 If not, you must say where it is by "-conf" parameter.
 
-> ./picus-script -conf ~/batur/settings/my-dv2csv-1.ini
+> ./db2scv-darwin-amd64 -conf ~/batur/settings/my-dv2csv-1.ini
 
 ##### Setting INI File
 
